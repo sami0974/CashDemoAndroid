@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CashDemo</string>
+    <string name="app_description">Payment Simulator - Educational Demo</string>
+    <string name="login_title">Login</string>
+    <string name="signup_title">Sign Up</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="username_hint">Username</string>
+    <string name="balance_label">Your Balance</string>
+    <string name="send_money">Send Money</string>
+    <string name="request_money">Request</string>
+    <string name="history">History</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="recipient_name">Recipient Name</string>
+    <string name="amount">Amount</string>
+    <string name="description">Description (Optional)</string>
+    <string name="send_button">Send</string>
+    <string name="back">Back</string>
+    <string name="success_message">Money Sent Successfully!</string>
+    <string name="demo_disclaimer">This is a demo app. No real money will be transferred.</string>
+</resources>
+
