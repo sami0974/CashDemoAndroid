@@ -291,7 +291,6 @@ This application is a **simulation only**. It does not perform real financial tr
 
 ---
 
-**Created for:** Educational purposes and demonstration
 **Version:** 1.0.0
 **Last Updated:** 2025
 
